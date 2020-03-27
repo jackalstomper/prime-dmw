@@ -39,6 +39,18 @@
                     "unsigned": false
                 },
                 {
+                    "address": "80479224",
+                    "baseIndex": 0,
+                    "label": "FPFaceAngle",
+                    "pointerOffsets": [
+                        "870",
+                        "7C",
+                        "190"
+                    ],
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
                     "address": "80458350",
                     "baseIndex": 0,
                     "label": "Horizontal Speed",
@@ -794,6 +806,13 @@
         },
         {
             "groupEntries": [
+                {
+                    "address": "80479224",
+                    "baseIndex": 1,
+                    "label": "CStateManager",
+                    "typeIndex": 2,
+                    "unsigned": true
+                },
                 {
                     "address": "80458350",
                     "baseIndex": 1,
